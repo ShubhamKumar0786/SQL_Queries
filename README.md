@@ -1,7 +1,7 @@
 # SQL-Queries
 ## create Database:[using_create_command]
-create database xcompany;
-using company;
+### create database xcompany;
+### using company;
 
 ### Create table Departments:[using create command]
  create table if not exists Departments(
